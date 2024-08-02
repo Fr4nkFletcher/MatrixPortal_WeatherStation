@@ -39,15 +39,15 @@ Hardware Setup
 Software Setup
 ~~~~~~~~~~~~~~
 
-1. Install `CircuitPython <https://circuitpython.org/board/matrixportal_m4/>`_ on the MatrixPortal M4.
-2. Download the required CircuitPython libraries from this `Adafruit CircuitPython Bundle <https://github.com/adafruit/Adafruit_CircuitPython_Bundle/releases/download/20240730/adafruit-circuitpython-bundle-9.x-mpy-20240730.zip>`_ and copy them to the ``lib`` folder on your MatrixPortal M4.
+1. Install `CircuitPython <https://circuitpython.org/board/matrixportal_m4/>`_ on the MatrixPortal M4
+2. Download the `Adafruit CircuitPython Bundle <https://github.com/adafruit/Adafruit_CircuitPython_Bundle/releases/download/20240730/adafruit-circuitpython-bundle-9.x-mpy-20240730.zip>`_
 3. Copy the following libraries to the ``lib`` folder on your CIRCUITPY drive:
--------------------
-   - adafruit_matrixportal
-   - adafruit_display_text
-   - adafruit_bme280
-   - adafruit_bus_device
-   - adafruit_register
+
+   * adafruit_matrixportal
+   * adafruit_display_text
+   * adafruit_bme280
+   * adafruit_bus_device
+   * adafruit_register
 
 Connect the BME280 Sensor
 ~~~~~~~~~~~~~~~~~~~~~~~~~
