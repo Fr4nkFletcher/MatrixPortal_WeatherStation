@@ -53,10 +53,11 @@ Connect the BME280 Sensor
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 1. Connect the BME280 sensor to the Matrix Portal using I2C:
-   - VIN to 3.3V
-   - GND to GND
-   - SCL to SCL
-   - SDA to SDA
+
+   * VIN to 3.3V
+   * GND to GND
+   * SCL to SCL
+   * SDA to SDA
 
 Upload the Code
 ~~~~~~~~~~~~~~~
